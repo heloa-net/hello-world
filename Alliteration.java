@@ -14,7 +14,7 @@ public class Alliteration {
 			while (entrada2.hasNext()) {
 				System.out.println(entrada2.nextLine());
 				String[] palavras;
-				palavras = entrada2.nextLine().split(" ");
+				palavras = (entrada2.nextLine()).split(" ");
 				int contador = 0;
 				
 				for (int i = 0; i < palavras.length; i++) {
