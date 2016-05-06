@@ -33,9 +33,8 @@ public class Alliteration {
 							}
 						}		
 					}				
-  				     
+				}
 			System.out.println(contador);
-                }
 			}
 		}
 	}
